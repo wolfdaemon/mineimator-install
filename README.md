@@ -8,9 +8,9 @@ It also allows you to launch the program from anywhere as a command, which is so
 
 ### Download/install instructions
 1. Download the script into your `~/Downloads` folder within your home directory
-2. Navigate to your `~/Downloads` directory:
+2. Navigate to your `~/Downloads` directory:  
 `cd ~/Downloads`  
-3. Run the script with the following command, replacing `$USER` with your Debian username:
+3. Run the script with the following command, replacing `$USER` with your Debian username:  
 `sudo -u $USER bash mineimator-install.sh`  
 
 ### NOTE: What distros does it work on?
